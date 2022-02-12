@@ -3,7 +3,7 @@ Simple copy+paste console script to retrieve grade average in Windesheim's educa
 
 # Steps
 ## 1. Login
-Login at windesheim.educator.nl with your student credentials.
+Login at educator.windesheim.nl with your student credentials.
 
 ## 2. Open console
 Open the console of your browser
