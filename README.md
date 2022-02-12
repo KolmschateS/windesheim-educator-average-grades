@@ -9,4 +9,4 @@ Login at educator.windesheim.nl with your student credentials.
 Open the console of your browser
 
 ## 3. Paste the scrape.js code
-Paste the code of srape.js in the console and press Enter.
+Paste the code of scrape.js in the console and press Enter.
