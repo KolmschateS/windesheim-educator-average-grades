@@ -40,5 +40,5 @@ function getAverage(data){
     return total / count;
 }
 
-console.log(getAverage(grades).toFixed(1));
-console.log(getGPAAverage(grades).toFixed(1));
+console.log(`Unweighted average grades: ${getAverage(grades).toFixed(1)}`);
+console.log(`Weighted average grades: ${getGPAAverage(grades).toFixed(1)}`);
